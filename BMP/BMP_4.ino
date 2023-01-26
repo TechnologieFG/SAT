@@ -16,9 +16,9 @@
    
    Connections
    ===========
-   Connect SCL to analog 5
-   Connect SDA to analog 4
-   Connect VDD to 3.3V DC
+   Connect SCL to analog 5 (21 en el caso del MEGA)
+   Connect SDA to analog 4 (20 en el caso del MEGA)
+   Connect VDD to 3.3V DC (se puede conectar a 5V si el sensor ccuenta con su regulador)
    Connect GROUND to common ground
     
    History
